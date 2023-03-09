@@ -1,4 +1,4 @@
-package Finalize;
+package Finalize.ch01;
 
 public class Person {
     private String name;

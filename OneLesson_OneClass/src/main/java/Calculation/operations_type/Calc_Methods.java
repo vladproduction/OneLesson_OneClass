@@ -1,4 +1,4 @@
-package Calculation.operations_type_data;
+package Calculation.operations_type;
 
 public class Calc_Methods {
     public static void main(String[] args) {
