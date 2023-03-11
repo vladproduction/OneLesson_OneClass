@@ -12,7 +12,7 @@ public class IronManAll  extends Triathlon{
         IronRating participant1 = new IronRating();
         participant1.world("World",99);
         System.out.println();
-        participant1.country("Country",199);
+        participant1.country("Car",199);
         System.out.println();
         participant1.local("Local",4);
         System.out.println();
@@ -22,7 +22,7 @@ public class IronManAll  extends Triathlon{
         IronRating participant2 = new IronRating();
         participant2.world("World",1000);
         System.out.println();
-        participant2.country("Country",1100);
+        participant2.country("Car",1100);
         System.out.println();
         participant2.local("Local",210);
         System.out.println();

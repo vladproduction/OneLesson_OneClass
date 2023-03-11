@@ -8,7 +8,7 @@ public class Main {
         System.out.println(item);
         System.out.println("------------");
 
-        item=null;
+        //item=null;
         System.gc();
 
     }

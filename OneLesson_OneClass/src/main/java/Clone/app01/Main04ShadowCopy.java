@@ -26,7 +26,7 @@ public class Main04ShadowCopy {
         b.setManufactory("SAMSUNG");
         System.out.println("a="+a);
         System.out.println("b="+b);
-        //1 tv and 2 пульта
+
     }
 
 }

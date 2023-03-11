@@ -29,16 +29,16 @@ public class MyTv implements Cloneable {
     }
 
     //deep clone
-    /*@Override
+    @Override
     public MyTv clone() throws CloneNotSupportedException {
         MyTv item = new MyTv();
         item.setPrice(price);
         item.setManufactory(manufactory);
         return item;
-    }*/
+    }
 
     //shadow clone
-    public MyTv clone() throws CloneNotSupportedException {
-        return (MyTv) super.clone();
-    }
+//    public MyTv clone() throws CloneNotSupportedException {
+//        return (MyTv) super.clone();
+//    }
 }

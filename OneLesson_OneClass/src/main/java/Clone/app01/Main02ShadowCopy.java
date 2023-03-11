@@ -25,7 +25,7 @@ public class Main02ShadowCopy {
         b.setManufactory("SAMSUNG");
         System.out.println("a="+a);
         System.out.println("b="+b);
-        //1 tv and 2 пульта
+       // now it is 2 different TV with it`s own remote control
     }
 
 }
