@@ -38,7 +38,7 @@ public class Football2 {
         System.out.println("Team name: "+nameTeam);
         System.out.println("Amount of players: "+squad);
         System.out.println("Shirt color: "+colorTsh);
-        System.out.println("Car: "+getCountry());
+        System.out.println("Country: "+getCountry());
     }
 
 }

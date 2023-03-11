@@ -11,7 +11,7 @@ public class Main {
         if(points == 100){
             type = "World Class";
         } else if(points>50){
-            type = "Car Class";
+            type = "Country Class";
         } else if(points>10){
             type = "Region Class";
         } else {

@@ -28,7 +28,7 @@ public class IronRating extends Triathlon {
     }
 
     public void country(String division, int points) {
-        super.rating("Car");
+        super.rating("Country");
         boolean Master = points >= 1000;
         if (Master) {
             System.out.println("Your rating: Master");

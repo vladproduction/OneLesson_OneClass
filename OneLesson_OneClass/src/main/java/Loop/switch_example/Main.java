@@ -14,7 +14,7 @@ public class Main {
                 type = "World Class";
                 break;
             case 60:
-                type = "Car";
+                type = "Country";
                 break;
             case 10:
                 type = "Region";
