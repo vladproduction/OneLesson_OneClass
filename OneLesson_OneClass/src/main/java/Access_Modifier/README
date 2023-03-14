@@ -7,10 +7,10 @@ Field and method
 
 Class:
 public (4)
-default (3)
+default (2)
 
 
-Methods <= when extends
+Methods <= when extends //arise
 2) default = private+package
 3) protected = default + children
 4) public = all

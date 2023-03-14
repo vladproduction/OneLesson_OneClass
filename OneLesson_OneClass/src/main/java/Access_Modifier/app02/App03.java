@@ -14,7 +14,7 @@ public class App03 {
 //        mp1.call();
 //        mp1.parentCall();
 //
-//        mp1.sms();
+        mp1.sms();
         mp1.makePhoto();
 
 
